@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="stocks">
+        <item>Maruti</item>
+        <item>Motilal</item>
+        <item>Yes Bank</item>
+    </string-array>
+</resources>

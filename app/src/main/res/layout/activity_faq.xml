@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".FAQ">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="How would you choose stock for your portfolio?"/>
+"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="With so many options available, picking the right stock for your portfolio can be a challenge. The basic rule while buying stock is to keep your financial goals in mind. Some may look for growth, while some may look for dividend income. The next logical step is to conduct a stock research. Look at the company’s income statement, cash flow statement, balance sheet, management’s future plans, debt figures, etc. Once you’ve accumulated the facts, analyse the data. If the EPS (earnings per share) is good, it means that the company is making profit on a per-share basis. The market appreciates stocks which show a growth trend of EPS. You can also use a screener to narrow down the list of stocks based on any criteria like industry or sector. Avoid small-cap companies and go in for mid-cap and large-cap ones. You can also conduct a technical analysis using the tools and charts available online. If you still need guidance, approach a stockbroker."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="What does the SEBI do?"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="The Securities and Exchange Board of India (SEBI) is the regulator for the securities market in India. The investment market needs to be regulated by rules for smooth trading. SEBI ensures the smooth functioning of the stock market and protects the interests of investors, issuers and intermediaries like stockbrokers. SEBI helps in the prevention of malpractices and fraudulent means through self-regulation of business and statutory regulations. It frames a code of conduct which has to be followed by bankers, brokers, underwriters, etc. It also approves the by-laws of stock exchanges and amends them, if necessary. SEBI inspects the books of accounts of financial intermediaries and stock exchanges. It checks price rigging and prohibits insider trading. It also educates investors to evaluate and buy profitable securities."/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Where do I find stock-related information?"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="You will find most of the information you need on the broker’s trading site. The trading interface on the brokers’ site provides real-time stock quotes through charts. It also contains a wealth of information about the latest stock market trends so that you can make a more informed decision while trading. The online interface also displays a list of top-performing stocks, information on gross profit and loss, dividends, shareholder benefits, etc. Moreover, you will also find stock information of your buy/sell transactions on the broker’s trading site. It provides research tools and technical analysis, helping you to build your financial future on this wealth of information."/>
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="What is Stock Market"/>-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Mah lyf iz amajjing"/>-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="What is Stock Market"/>-->
+
+<!--            <TextView-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="Mah lyf iz amajjing"/>-->
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
